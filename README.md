@@ -27,9 +27,6 @@ Com episódios curtos, linguagem simples e uma pegada descontraída, o podcast m
 ### 🎨 Episódio 1 — *O poder das cores*
 > Descubra como o CSS vai além da estética: cores podem transmitir emoções e criar experiências!
 
-### ✍️ Episódio 2 — *As fontes também falam!*
-> Saiba como as fontes influenciam a identidade de um site e como o Google Fonts pode ser o seu melhor aliado.
-
 *(Novos episódios em breve!)*
 
 ---
