@@ -1,7 +1,9 @@
 # 🎙️ Entre Linhas e Cores  
 ### *Descomplicando o visual da web, uma linha por vez!*
 
-![Capa do Podcast](./assets/capa-podcast.png)
+<p align="center">
+  <img src="./entre-linhas-e-cores/assets/podcast-img.jpg" width="800" alt="Capa do Podcast Entre Linhas e Cores">
+</p>
 
 ---
 
